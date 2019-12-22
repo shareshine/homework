@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shareshine/homework.git"
+  },
+  "author": "qiyangzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shareshine/homework/issues"
+  },
+  "homepage": "https://github.com/shareshine/homework#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
